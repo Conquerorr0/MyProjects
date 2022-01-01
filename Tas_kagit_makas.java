@@ -107,10 +107,6 @@ public class Tas_kagit_makas {
         
     }
     
-    /*public static void karsilasma(int playerPoint, int computerPoint, int oyuncuSecimi, int bilSecimi){
-        sonuc(playerPoint, computerPoint, oyuncuSecimi, bilSecimi);
-    }*/
-    
     public static void sonuc(int playerPoint, int computerPoint, int playerChoise, int computerChoise){
         
         if(playerChoise==1 && computerChoise==2){
